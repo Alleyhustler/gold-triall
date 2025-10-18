@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.whistle-stop.com	TRUE	/	FALSE	1999999999	__cf_bm	ljY3TJ1WzD5ik8n_j1McuIh_1AyIPbZ5An0px3y8XaU-1753201480-1.0.1.1-GuEtvlJQsFAB88RWj8GN4cQCT8cn9ikEiwOp3loTXqxvnuKkh_UoQMaTRi.3RVBJCC_dsn6kfzRQmlGI2aB3nZlBuhYTm.bdrqktUbRe1V0
+whistle-stop.com	TRUE	/	FALSE	1999999999	SameSite	None
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Uniq	Wi01MqvWXdZBJ-2NO-Pw8AI4AAEBAFvdLY7aN6GDfFEMEX4JAmEGH5n7ZtzgR3a-
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+.kickstarter.com	TRUE	/	FALSE	1999999999	__cf_bm	FjRWjp.Y1zW5Afow_dyRYBp01CX.SCQsfWJuagmoTB0-1753201563-1.0.1.1-Px2v78JbGmMEhC3Eco747yd6j.9S.RIHxZXugEOqMDDPKKeE5rt7CnVl6ZRS0TzGY4L_nrZiKojf9QHxE.6uvLtVxuiKUv0fiUulKe08Rc0
+i.kickstarter.com	TRUE	/	FALSE	1999999999	SameSite	None
+
